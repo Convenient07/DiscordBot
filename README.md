@@ -1,1 +1,1 @@
-# DiscordBot
+# myboiz
